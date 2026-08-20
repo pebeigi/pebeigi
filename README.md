@@ -20,55 +20,50 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 448 Contributions in the Year 2026
+> 🏆 454 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                812 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 Daytime                2203 commits        ███████████████░░░░░░░░░░   58.39 % 
-🌃 Evening                736 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+🌞 Morning                812 commits         █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+🌆 Daytime                2207 commits        ███████████████░░░░░░░░░░   58.43 % 
+🌃 Evening                736 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
 🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
-
-
-🤖 **AI Coding This Week** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+Monday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  1031 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Wednesday                343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Thursday                 595 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Friday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Saturday                 374 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Sunday                   460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 ```
+
 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
-Jupyter Notebook         15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-Python                   11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Jupyter Notebook         15 repos            █████████████░░░░░░░░░░░░   51.72 % 
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
+**Timeline**
 
- Last Updated on 20/08/2026 01:01:14 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/pebeigi/pebeigi/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/08/2026 19:18:34 UTC
 <!--END_SECTION:waka-->
