@@ -14,7 +14,6 @@
 ## 🐱 My GitHub Data
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
