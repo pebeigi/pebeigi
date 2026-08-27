@@ -13,9 +13,6 @@
 
 ## 🐱 My GitHub Data
 
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%207%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
