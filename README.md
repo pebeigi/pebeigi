@@ -11,9 +11,6 @@
 
 <br/>
 
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
